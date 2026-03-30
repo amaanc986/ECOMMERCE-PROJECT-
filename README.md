@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 For any queries or support, reach out at:
-📧 Email: himanshu291003@gmail.com  
+📧 Email: amaanc986@gmail.com  
 Happy Coding! 🎉
 =======
 # Django-Ecommerce-Application-main
